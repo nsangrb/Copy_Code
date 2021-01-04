@@ -1,0 +1,12 @@
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\bin\Debug\Copy_Code.exe.config
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\bin\Debug\Copy_Code.exe
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\bin\Debug\Copy_Code.pdb
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\obj\Debug\Copy_Code.csprojAssemblyReference.cache
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\obj\Debug\Copy_Code.Properties.Resources.resources
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\obj\Debug\View_manager.View_manager.resources
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\obj\Debug\Copy_Code.csproj.GenerateResource.cache
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\obj\Debug\Copy_Code.csproj.CoreCompileInputs.cache
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\obj\Debug\Copy_Code.csproj.CopyComplete
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\obj\Debug\Copy_Code.exe
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\obj\Debug\Copy_Code.pdb
+E:\bosch\Apps\Copy_Code_Manager\Copy_Code_Manager\obj\Debug\View_manager.f_Add_Vobs.resources

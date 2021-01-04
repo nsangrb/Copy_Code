@@ -1,0 +1,5 @@
+@Vob:sgdcc_eps_sdk3
+@Vob:sgdcc_hwlib_bk3
+@Name:CODE_MP
+@Path:N:\<View_name>\sgdcc_eps_sdk3\EpsDriveSW\ImplementationSet|*.c *.h *.mak *.kgt *.kon
+@Path:N:\<View_name>\sgdcc_eps_sdk3\EpsDriveSW\IntegrationTestSet|*.*
